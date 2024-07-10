@@ -252,6 +252,7 @@ Fact
   ```
 
 ## Analysis
+[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGI4Mjc4OWUtNDA2My00NmI0LTg0YjYtMmE0ZmFiZjRkOTU1IiwidCI6Ijc5NzgyMzFkLTA4ZjAtNDVhNy05ZDEzLTc3YzNmYTk2OGI4OCJ9)
 
 #### Revenue
 - With a total of $ 24.9M the company revenue is increasing over time, with the best result in jun/2022 ($ 1.83M) even with a small drop in sales of -0.88% compared with the previous month;
